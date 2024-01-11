@@ -1,0 +1,37 @@
+.name{
+    font-size: 30px;
+}
+
+.carro {
+    background-color: #e1cfab55;
+    margin: 20px;
+    display: flex;
+    flex-direction: column; /* Alinea los elementos verticalmente */
+    padding: 20px; /* Agrega espacio alrededor del contenido */
+    border: 1px solid #ccc; /* Agrega un borde alrededor del contenedor */
+    border-radius: 5px; /* Redondea las esquinas del contenedor */
+  }
+  
+  .productosEnCarrito {
+    display: flex;
+    align-items: center; /* Centra los elementos horizontalmente */
+    flex-direction: column; /* Alinea los elementos verticalmente */
+    gap: 10px; /* Agrega espacio entre los elementos */
+  }
+
+ .info {
+    font-size: 16px;
+    color: #666;
+  } 
+  
+.eliminar {
+
+    height: 40px;
+    /* background-color: #e2725b; */
+    background-color: #d18575;
+    color: #fff;
+    border: none;
+    padding: 10px 20px;
+    border-radius: 5px;
+    cursor: pointer;
+  }

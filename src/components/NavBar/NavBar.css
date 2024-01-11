@@ -1,0 +1,15 @@
+.Categorias, .ActiveOption{
+    font-size: 20px;
+    margin-right: 50px;
+    margin-top:10px;
+    height: 35px;
+    width: auto;
+}
+.Categorias:hover{
+    cursor: pointer;
+    
+}
+.logo{
+    width: 180px;
+    height: auto;
+}

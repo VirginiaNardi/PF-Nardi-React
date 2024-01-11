@@ -1,0 +1,33 @@
+.Counter {
+    text-align: center;
+    margin: 20px;
+}
+
+.controls {
+    align-items: center;
+}
+
+.button {
+    color: black;
+    font-size: 1.3em;
+    border: 1px solid grey;
+    margin-right: 1px;
+    cursor: pointer;
+    transition: background-color 0.3s ease;
+}
+
+.button:hover {
+    background-color: antiquewhite;
+}
+
+.number {
+    font-size: 26px;
+    border: 1px solid grey;
+    margin: 0 10px;
+}
+
+.agregarAlCarrito {
+    margin-top: 10px;
+}
+
+
